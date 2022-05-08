@@ -24,5 +24,6 @@ System Design Notes for MAANG Interview
 |[Design Web Crawler Detector](https://leetcode.com/discuss/interview-question/system-design/548816/Amazon-or-System-Design-or-Web-Crawler-Detector)|Amazon|
 |[Design Pastbin](https://leetcode.com/discuss/interview-question/system-design/124804/Design-Pastebin)| Amazon|
 |[Design Distributed Cache](https://leetcode.com/discuss/interview-question/system-design/125751/Design-a-distributed-cache-system)|Meta|
-|||
-|||
+|[Design YouTube](https://leetcode.com/discuss/interview-question/system-design/733520/Design-YouTube-Very-detailed-design-with-diagrams)|Microsoft|
+|[Design BookMyShow](https://leetcode.com/discuss/interview-question/system-design/124803/Design-BookMyShow)|Oracle|
+|[Design WhatsApp](https://leetcode.com/discuss/interview-question/system-design/220073/How-would-you-design-WhatsApp)|Amazon|
